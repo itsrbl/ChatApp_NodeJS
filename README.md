@@ -3,8 +3,8 @@
 
 
 
-## 🚀 About Projetc
-Simple easy to use chat application base on websocket.io and nodejs bakcend.
+## 🚀 About Project
+Simple easy to use chat application based on Websocket.io and NodeJS Backend.
 
 
 
